@@ -9,7 +9,7 @@
 body {
   /* border: solid red; */
   background-size: cover;
-  background-image: url("https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=2aa22924-402c-4d35-bcf9-2acd27754d88&api_key=CometServer1&access_token=1687426123_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_74273eba93129962eb1f96c6860495a3fa59dc47");
+  background-image: url("the\ witcher\ hell.png");
 }
 header {
   display: flex;
@@ -44,7 +44,7 @@ h2 {
 main {
   height: 100vh;
   /* border: solid red; */
-  background-image: url("https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=7a8c854a-a5c6-4f77-bb53-8c7f1154222c&api_key=CometServer1&access_token=1687513633_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_2a4d892b2cc956343d2c78e4a9ec3fdfccc32bbb");
+  background-image: url("the\ witcher\ kavil2.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
